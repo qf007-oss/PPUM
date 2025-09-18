@@ -1,0 +1,6 @@
+
+Total num is =182
+Lost=1
+MissingRate=0.005780346820809248
+Ghost=0
+Failure=0

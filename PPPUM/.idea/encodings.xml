@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MaxUtility/MaxUtility.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MaxUtility/MemoryLogger1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MaxUtility/ProUtility1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MinCount/MemoryLogger2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MinCount/MinCount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MinCount/ProUtility2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MinUtility/MemoryLogger3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MinUtility/MinUtility.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/MinUtility/ProUtility3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/DataCopy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/DatabaseProcess.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/GenSenIDs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/ItemUtility.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/Itemset.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/Judge.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/ReadDB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/LiuXuan/test/TransactionTP.java" charset="GBK" />
+  </component>
+</project>
